@@ -1,0 +1,31 @@
+{
+  "name": "image-resize",
+  "version": "1.0.0",
+  "description": "little package to do image resizing and optimization with gulp",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CodeLoversAt/image-resize.git"
+  },
+  "keywords": [
+    "image",
+    "resize",
+    "gulp"
+  ],
+  "author": "Daniel Holzmann <d@velopment.at>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodeLoversAt/image-resize/issues"
+  },
+  "homepage": "https://github.com/CodeLoversAt/image-resize",
+  "dependencies": {
+    "gulp": "^3.8.11",
+    "gulp-image-optimization": "^0.1.3",
+    "gulp-image-resize": "^0.6.0",
+    "gulp-rename": "^1.2.0",
+    "minimist": "^1.1.1"
+  }
+}
