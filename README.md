@@ -11,7 +11,7 @@ npm install
 
 ## Usage
 
-All options show the default value and are optional.
+Put the files you want to resize into to the `original` folder. Then run gulp. All options show below the default value and are optional.
 
 ```shell
 gulp --width=1200 \
